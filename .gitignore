@@ -1,0 +1,9 @@
+data/
+.idea/
+.ipynb_checkpoints/
+.Rhistory
+*.bak
+__pycache__/
+*.pyc
+.DS_Store
+description.md
